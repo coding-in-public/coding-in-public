@@ -40,6 +40,11 @@ I’m a relatively new, self-taught front-end developer who loves to learn throu
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Update Npm Packages Safely With Npm Check Updates](https://chrispennington.blog/blog/how-to-update-npm-packages-safely-with-npm-check-updates/)
+- [Custom HTML Keyboard Maestro Prompt for Zendesk Support Articles](https://chrispennington.blog/blog/custom-html-keyboard-maestro-prompt-for-zendesk-support-articles/)
+- [How to Fix Logitech MX Master 3 Not Scrolling on Mac](https://chrispennington.blog/blog/how-to-fix-logitech-mx-master-3-not-scrolling-on-mac/)
+- [ESV Bible Api Script for Raycast](https://chrispennington.blog/blog/esv-bible-api-script-for-raycast/)
+- [Custom HTML Prompt With Keyboard Maestro](https://chrispennington.blog/blog/custom-html-prompt-with-keyboard-maestro/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...][blog]
