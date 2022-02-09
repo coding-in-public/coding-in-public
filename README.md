@@ -26,6 +26,11 @@ I’m a relatively new, self-taught front-end developer who loves to learn throu
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Custom Loading Spinner Animation with CSS](https://www.youtube.com/watch?v=v9abbPHgVR4)
+- [Frontend Mentor E-Commerce Product Page Live Coding &lpar;Part 3&rpar;](https://www.youtube.com/watch?v=8gIhsSF_4P8)
+- [Top 10 VS Code Extensions for Web Development](https://www.youtube.com/watch?v=0ABuzt8X5SA)
+- [SVG Analogue World Clock with HTML, CSS, and JavaScript](https://www.youtube.com/watch?v=tYKlLQmg6OM)
+- [Frontend Mentor E-Commerce Product Page Live Coding &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=68szNZ3dogI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
