@@ -1,5 +1,5 @@
 # Hey! I’m Chris 👋
-I’m a relatively new, self-taught front-end developer who loves to learn through teaching. I learn best by teaching and collaborating with others.
+I’m a relatively new self-taught front-end developer who loves to learn through teaching.
 
 ---
 - 👨‍👩‍👧‍👦 I’m a husband and father (of three kids).
@@ -11,14 +11,14 @@ I’m a relatively new, self-taught front-end developer who loves to learn throu
 [![Twitter Follow](https://img.shields.io/twitter/follow/cpenned?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%cpenned&screen_name=cpenned)
 
 ### Connect with me:
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://codinginpublic.dev.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codinginpublic.dev#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://youtube.com/coding-in-public#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/coding-in-public#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/cpenned#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/cpenned#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ---
