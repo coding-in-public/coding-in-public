@@ -11,7 +11,7 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 [![Twitter Follow](https://img.shields.io/twitter/follow/cpenned?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%cpenned&screen_name=cpenned)
 
 ### Connect with me:
-[![website](./img/globe-light.svg)](https://codinginpublic.dev.com#gh-light-mode-only)
+[![website](./img/globe-light.svg)](https://codinginpublic.dev#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codinginpublic.dev#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/coding-in-public#gh-light-mode-only)
