@@ -1,4 +1,4 @@
-# Hey! I’m Chris 👋
+# Hey! I’m Chris Pennington 👋
 I’m a relatively new self-taught front-end developer who loves to learn through teaching.
 
 ---
