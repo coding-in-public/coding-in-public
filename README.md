@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Google Calendar API Event Page | HTML and Tailwind CSS Project](https://www.youtube.com/watch?v=CObyHiI7TEQ)
+- [Google Calendar API Event Page | Intro &amp; Setup](https://www.youtube.com/watch?v=SOsGToYI0MQ)
 - [Custom Loading Spinner Animation with CSS](https://www.youtube.com/watch?v=v9abbPHgVR4)
 - [Frontend Mentor E-Commerce Product Page Live Coding &lpar;Part 3&rpar;](https://www.youtube.com/watch?v=8gIhsSF_4P8)
 - [Top 10 VS Code Extensions for Web Development](https://www.youtube.com/watch?v=0ABuzt8X5SA)
-- [Google Calendar API Event Page | Intro &amp; Setup](https://www.youtube.com/watch?v=SOsGToYI0MQ)
-- [SVG Analogue World Clock with HTML, CSS, and JavaScript](https://www.youtube.com/watch?v=tYKlLQmg6OM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
