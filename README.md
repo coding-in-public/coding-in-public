@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Debug Mobile Safari with a Mac](https://www.youtube.com/watch?v=4gnxf9LFpC0)
 - [Google Calendar API Event Page | Displaying the Calendar Events](https://www.youtube.com/watch?v=_ec2ps7w8s4)
 - [Google Calendar API Event Page | Building the Netlify Serverless Function](https://www.youtube.com/watch?v=wf5gVe8hWnk)
 - [Google Calendar API Event Page | HTML and Tailwind CSS Project](https://www.youtube.com/watch?v=CObyHiI7TEQ)
 - [Google Calendar API Event Page | Intro &amp; Setup](https://www.youtube.com/watch?v=SOsGToYI0MQ)
-- [Custom Loading Spinner Animation with CSS](https://www.youtube.com/watch?v=v9abbPHgVR4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
