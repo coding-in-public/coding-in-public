@@ -26,7 +26,7 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Debug Mobile Safari with a Mac](https://www.youtube.com/watch?v=4gnxf9LFpC0)
+- [Mobile Safari Web Inspector](https://www.youtube.com/watch?v=4gnxf9LFpC0)
 - [Google Calendar API Event Page | Displaying the Calendar Events](https://www.youtube.com/watch?v=_ec2ps7w8s4)
 - [Google Calendar API Event Page | Building the Netlify Serverless Function](https://www.youtube.com/watch?v=wf5gVe8hWnk)
 - [Google Calendar API Event Page | HTML and Tailwind CSS Project](https://www.youtube.com/watch?v=CObyHiI7TEQ)
