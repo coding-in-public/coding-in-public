@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to Safely Update NPM Packages](https://www.youtube.com/watch?v=0XQXGx3lLaU)
 - [Live Code: Starbucks Home Page Clone](https://www.youtube.com/watch?v=M-l1qUdLgS4)
 - [Simple Toast Message &lpar;Vanilla JavaScript and CSS&rpar;](https://www.youtube.com/watch?v=EWveKYaX-P0)
 - [Mobile Safari Web Inspector](https://www.youtube.com/watch?v=4gnxf9LFpC0)
 - [Google Calendar API Event Page | Displaying the Calendar Events](https://www.youtube.com/watch?v=_ec2ps7w8s4)
-- [Google Calendar API Event Page | Building the Netlify Serverless Function](https://www.youtube.com/watch?v=wf5gVe8hWnk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
