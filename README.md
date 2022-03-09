@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Typewriter Animation Effect with HTML, CSS, and JavaScript](https://www.youtube.com/watch?v=7uDdiMCVwJk)
 - [Formatting lists and numbers in JavaScript with the Intl API](https://www.youtube.com/watch?v=5XrudMh0NT8)
 - [How to Safely Update NPM Packages](https://www.youtube.com/watch?v=0XQXGx3lLaU)
 - [Live Code: Starbucks Home Page Clone](https://www.youtube.com/watch?v=M-l1qUdLgS4)
 - [Simple Toast Message &lpar;Vanilla JavaScript and CSS&rpar;](https://www.youtube.com/watch?v=EWveKYaX-P0)
-- [Mobile Safari Web Inspector](https://www.youtube.com/watch?v=4gnxf9LFpC0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
