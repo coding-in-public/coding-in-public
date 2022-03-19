@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [5 Modern CSS One-Liners](https://www.youtube.com/watch?v=8pAf5vZTXIY)
 - [Responsive Navbar HTML, CSS, and JavaScript](https://www.youtube.com/watch?v=63sxOYm9GwY)
 - [My VSCode Theme and Font Setup](https://www.youtube.com/watch?v=5uETTXxVj8s)
 - [Typewriter Animation Effect with HTML, CSS, and JavaScript](https://www.youtube.com/watch?v=7uDdiMCVwJk)
 - [Formatting lists and numbers in JavaScript with the Intl API](https://www.youtube.com/watch?v=5XrudMh0NT8)
-- [How to Safely Update NPM Packages](https://www.youtube.com/watch?v=0XQXGx3lLaU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
