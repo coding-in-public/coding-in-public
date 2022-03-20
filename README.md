@@ -26,7 +26,7 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [5 Modern CSS One-Liners](https://www.youtube.com/watch?v=8pAf5vZTXIY)
+- [Five Modern CSS One-Liners &lpar;with caniuse.com statistics&rpar;](https://www.youtube.com/watch?v=8pAf5vZTXIY)
 - [Responsive Navbar HTML, CSS, and JavaScript](https://www.youtube.com/watch?v=63sxOYm9GwY)
 - [My VSCode Theme and Font Setup](https://www.youtube.com/watch?v=5uETTXxVj8s)
 - [Typewriter Animation Effect with HTML, CSS, and JavaScript](https://www.youtube.com/watch?v=7uDdiMCVwJk)
