@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live Code: Frontend Mentor Challenge &lpar;Blogr Landing Page&rpar;](https://www.youtube.com/watch?v=CWZxNdoBPN4)
 - [Delete Old Node Modules with NPKill &lpar;Clean up space!&rpar;](https://www.youtube.com/watch?v=sKwFyr295y4)
 - [Open Props CSS Framework &lpar;An Introduction&rpar;](https://www.youtube.com/watch?v=cq7c3tawEnI)
 - [Five Modern CSS One-Liners &lpar;with caniuse.com statistics&rpar;](https://www.youtube.com/watch?v=8pAf5vZTXIY)
 - [Responsive Navbar HTML, CSS, and JavaScript](https://www.youtube.com/watch?v=63sxOYm9GwY)
+- [My VSCode Theme and Font Setup](https://www.youtube.com/watch?v=5uETTXxVj8s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
