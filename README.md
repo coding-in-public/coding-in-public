@@ -29,7 +29,7 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 - [Live Code: Frontend Mentor Challenge &lpar;Blogr Landing Page&rpar; - Part 2](https://www.youtube.com/watch?v=QMoHrL6eK9c)
 - [Get Started with pnpm](https://www.youtube.com/watch?v=MvbReZDSKHI)
 - [Fade Navbar and Images on Scroll &lpar;with the Intersection Observer JavaScript API&rpar;](https://www.youtube.com/watch?v=m8WLd37Y9Ew)
-- [Live Code: Frontend Mentor Challenge &lpar;Blogr Landing Page&rpar;](https://www.youtube.com/watch?v=CWZxNdoBPN4)
+- [Live Code: Frontend Mentor Challenge &lpar;Blogr Landing Page&rpar; - Part 1](https://www.youtube.com/watch?v=CWZxNdoBPN4)
 - [Delete Old Node Modules with NPKill &lpar;Clean up space!&rpar;](https://www.youtube.com/watch?v=sKwFyr295y4)
 <!-- YOUTUBE:END -->
 
