@@ -26,7 +26,7 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Learn Tailwind CSS: Modern Landing Page Tailwind Project](https://www.youtube.com/watch?v=xpGNcQDmV2A)
+- [Modern Landing Page Tailwind CSS Project](https://www.youtube.com/watch?v=xpGNcQDmV2A)
 - [Easy Responsive Typography &lpar;CSS-only&rpar;](https://www.youtube.com/watch?v=R1ehrIk0oUU)
 - [Live Code: Frontend Mentor Challenge &lpar;Blogr Landing Page&rpar; - Part 2](https://www.youtube.com/watch?v=QMoHrL6eK9c)
 - [Get Started with pnpm](https://www.youtube.com/watch?v=MvbReZDSKHI)
