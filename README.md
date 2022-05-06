@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Code: Google I/O 2022 Homepage Clone &lpar;Astro SSG + Tailwind CSS&rpar;](https://www.youtube.com/watch?v=Bo9s7SjZ170)
 - [Animating Charts with Vanilla JavaScript](https://www.youtube.com/watch?v=ZaG_Hwxli78)
 - [How to Support All Browsers with Your CSS](https://www.youtube.com/watch?v=adEwlFHLWd4)
 - [Custom Dark Mode Page Scrollbar](https://www.youtube.com/watch?v=mL0fYluyiQE)
 - [Live Code: Frontend Mentor Challenge &lpar;Sunnyside Agency Landing Page&rpar;](https://www.youtube.com/watch?v=bssa4jgOCMc)
-- [Show Active Nav Link with JavaScript](https://www.youtube.com/watch?v=HpjW9eaFLIg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
