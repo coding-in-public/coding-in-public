@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Common Terminal Commands for Web Dev](https://www.youtube.com/watch?v=Rfoq_f8AHLU)
 - [Five Tips for Responsive Web Design](https://www.youtube.com/watch?v=82zN2D8a1b4)
 - [My Custom Terminal Setup](https://www.youtube.com/watch?v=DBASd9L4GCo)
 - [Custom Progress Bar Animation &lpar;HTML, CSS, and Vanilla JavaScript&rpar;](https://www.youtube.com/watch?v=kLXeGFAz2kI)
 - [PnPm Update &lpar;Safely update node_modules with PnPm&rpar;](https://www.youtube.com/watch?v=lnj7NUtgnEg)
-- [Live Code: Google I/O 2022 Homepage Clone &lpar;Astro SSG + Tailwind CSS&rpar;](https://www.youtube.com/watch?v=Bo9s7SjZ170)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
