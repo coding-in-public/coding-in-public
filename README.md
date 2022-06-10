@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Code: Frontend Mentor Challenge &lpar;Expenses Chart Component&rpar;](https://www.youtube.com/watch?v=OkKcKzc9iK0)
 - [15 VSCode Keyboard Shortcuts to Speed Up Your Code](https://www.youtube.com/watch?v=A9Zi3BD_76w)
 - [Before/After Image Slider Comparison &lpar;HTML, CSS, and JavaScript&rpar;](https://www.youtube.com/watch?v=dzqDU9efnnk)
 - [JavaScript Canvas Confetti Animation](https://www.youtube.com/watch?v=fJnjFSclSXc)
 - [Common Terminal Commands for Web Dev](https://www.youtube.com/watch?v=Rfoq_f8AHLU)
-- [Five Tips for Responsive Web Design](https://www.youtube.com/watch?v=82zN2D8a1b4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
