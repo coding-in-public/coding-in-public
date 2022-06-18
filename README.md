@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Create a Custom Toggle Button with HTML, CSS, and JavaScript](https://www.youtube.com/watch?v=8aZ2vla5PYI)
 - [Live Code: Local Storage and Event Delegation &lpar;Wes Bos JavaScript Project&rpar;](https://www.youtube.com/watch?v=mmQrUofpFQ0)
 - [Live Code: Frontend Mentor Challenge &lpar;Expenses Chart Component&rpar;](https://www.youtube.com/watch?v=OkKcKzc9iK0)
 - [15 VSCode Keyboard Shortcuts to Speed Up Your Code](https://www.youtube.com/watch?v=A9Zi3BD_76w)
 - [Before/After Image Slider Comparison &lpar;HTML, CSS, and JavaScript&rpar;](https://www.youtube.com/watch?v=dzqDU9efnnk)
-- [JavaScript Canvas Confetti Animation](https://www.youtube.com/watch?v=fJnjFSclSXc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
