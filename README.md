@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Figma for Web Developers](https://www.youtube.com/watch?v=2liZ3uvO9bs)
 - [👀 Reviewing Your Sites!](https://www.youtube.com/watch?v=Yzs7mZk6m9g)
 - [My Favorite Tailwind 3.1 Features](https://www.youtube.com/watch?v=5Iz-tLHbfzo)
 - [Create a Custom Toggle Button with HTML, CSS, and JavaScript](https://www.youtube.com/watch?v=8aZ2vla5PYI)
 - [Live Code: Local Storage and Event Delegation &lpar;Wes Bos JavaScript Project&rpar;](https://www.youtube.com/watch?v=mmQrUofpFQ0)
-- [Live Code: Frontend Mentor Challenge &lpar;Expenses Chart Component&rpar;](https://www.youtube.com/watch?v=OkKcKzc9iK0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
