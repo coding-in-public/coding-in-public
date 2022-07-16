@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [New Figma Components 101: Variants and Component Properties &lpar;Boolean, Instance Swap, and Text&rpar;](https://www.youtube.com/watch?v=Z3In89pq8x4)
 - [Warp Terminal — a reimagined terminal experience!](https://www.youtube.com/watch?v=wdrjIHzGW74)
 - [Creating a Modern Button with CSS](https://www.youtube.com/watch?v=0HvkYqkIjY4)
 - [Figma for Web Developers](https://www.youtube.com/watch?v=2liZ3uvO9bs)
 - [👀 Reviewing Your Sites!](https://www.youtube.com/watch?v=Yzs7mZk6m9g)
-- [My Favorite Tailwind 3.1 Features](https://www.youtube.com/watch?v=5Iz-tLHbfzo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
