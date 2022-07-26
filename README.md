@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Code: Frontend Mentor Time Tracking Dashboard](https://www.youtube.com/watch?v=3A5NPM9M9-I)
 - [Live Code: Frontend Mentor Time Tracking Dashboard](https://www.youtube.com/watch?v=5m9mgYfVRLg)
 - [Tab through Webpage Content in Safari and Firefox on macOS](https://www.youtube.com/watch?v=jVBu8gcv4Gs)
 - [New Figma Components 101: Variants and Component Properties &lpar;Boolean, Instance Swap, and Text&rpar;](https://www.youtube.com/watch?v=Z3In89pq8x4)
 - [Warp Terminal — a reimagined terminal experience!](https://www.youtube.com/watch?v=wdrjIHzGW74)
-- [Creating a Modern Button with CSS](https://www.youtube.com/watch?v=0HvkYqkIjY4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
