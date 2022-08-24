@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Vanilla JavaScript Challenge &lpar;#2 Array Methods&rpar;](https://www.youtube.com/watch?v=ZdvYo9iNwUs)
-- [Vanilla JavaScript Challenge &lpar;#1 DOM manipulation&rpar;](https://www.youtube.com/watch?v=blHyW-Cyj58)
+- [React Project for Absolute Beginners &lpar;One Thing App&rpar;](https://www.youtube.com/watch?v=s84yXvLOoio)
+- [Vanilla JavaScript Challenge &lpar;Array Methods&rpar;](https://www.youtube.com/watch?v=ZdvYo9iNwUs)
+- [Vanilla JavaScript Challenge &lpar;DOM manipulation&rpar;](https://www.youtube.com/watch?v=blHyW-Cyj58)
 - [Building Better Form Input Defaults](https://www.youtube.com/watch?v=7FsWk1MJIl0)
 - [Click and Scroll Smoothly on a Page &lpar;with some pro tips!&rpar;](https://www.youtube.com/watch?v=4FIP7GiNccw)
-- [Live Code: Frontend Mentor Time Tracking Dashboard &lpar;2/2&rpar;](https://www.youtube.com/watch?v=3A5NPM9M9-I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
