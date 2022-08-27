@@ -27,10 +27,10 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 
 <!-- YOUTUBE:START -->
 - [Live Code: Frontend Mentor React Tip Calculator App](https://www.youtube.com/watch?v=Du-iS6RmP0g)
+- [Live Code: Frontend Mentor React Tip Calculator App](https://www.youtube.com/watch?v=v7n4F26LSh0)
 - [React Project for Absolute Beginners &lpar;One Thing App&rpar;](https://www.youtube.com/watch?v=s84yXvLOoio)
 - [Vanilla JavaScript Challenge &lpar;Array Methods&rpar;](https://www.youtube.com/watch?v=ZdvYo9iNwUs)
 - [Vanilla JavaScript Challenge &lpar;DOM manipulation&rpar;](https://www.youtube.com/watch?v=blHyW-Cyj58)
-- [Building Better Form Input Defaults](https://www.youtube.com/watch?v=7FsWk1MJIl0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
