@@ -26,8 +26,8 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live Code: Frontend Mentor React Tip Calculator App](https://www.youtube.com/watch?v=Du-iS6RmP0g)
-- [Live Code: Frontend Mentor React Tip Calculator App](https://www.youtube.com/watch?v=v7n4F26LSh0)
+- [Live Code: Frontend Mentor React Tip Calculator App &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=v7n4F26LSh0)
+- [Live Code: Frontend Mentor React Tip Calculator App &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=Du-iS6RmP0g)
 - [React Project for Absolute Beginners &lpar;One Thing App&rpar;](https://www.youtube.com/watch?v=s84yXvLOoio)
 - [Vanilla JavaScript Challenge &lpar;Array Methods&rpar;](https://www.youtube.com/watch?v=ZdvYo9iNwUs)
 - [Vanilla JavaScript Challenge &lpar;DOM manipulation&rpar;](https://www.youtube.com/watch?v=blHyW-Cyj58)
