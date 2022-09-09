@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Code: Frontend Mentor Social media dashboard with theme switcher](https://www.youtube.com/watch?v=xVlXTl7Ul70)
 - [Modern React CRUD App Project &lpar;React ToDo app&rpar;](https://www.youtube.com/watch?v=7u2Rv4HfCYQ)
 - [Customizing Color on Input #shorts](https://www.youtube.com/watch?v=hDG3DcSMNsI)
 - [Custom Color Theme Switcher CSS](https://www.youtube.com/watch?v=04et3NbcIj0)
 - [Live Code: Frontend Mentor React Tip Calculator App &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=v7n4F26LSh0)
-- [Live Code: Frontend Mentor React Tip Calculator App &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=Du-iS6RmP0g)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
