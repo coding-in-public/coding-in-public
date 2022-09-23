@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Code: Net Ninja Coding Challenges](https://www.youtube.com/watch?v=By-9xVaeHt0)
 - [Vanilla JavaScript Challenge &lpar;Working with Objects&rpar;](https://www.youtube.com/watch?v=rpxqIoT88oQ)
 - [Multiple cursor case preserve #shorts](https://www.youtube.com/watch?v=0h9JktnMhJU)
 - [Custom Theme Switcher &lpar;React Project&rpar;](https://www.youtube.com/watch?v=yjRv73QZ7tw)
 - [Live Code: Frontend Mentor Social Media Dashboard with Theme Switcher](https://www.youtube.com/watch?v=edeorL276x0)
-- [Live Code: Frontend Mentor Social Media Dashboard with Theme Switcher](https://www.youtube.com/watch?v=xVlXTl7Ul70)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
