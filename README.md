@@ -40,11 +40,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Reduce Method](https://chrispennington.blog/blog/reduce-method-javascript/)
 - [Vs Code Keyboard Shortcuts for Coding Productivity](https://chrispennington.blog/blog/vs-code-keyboard-shortcuts-for-coding-productivity/)
 - [Introduction to Terminal Commands](https://chrispennington.blog/blog/introduction-to-terminal-commands/)
 - [Templating Classes in Astro](https://chrispennington.blog/blog/templating-classes-in-astro/)
 - [Clear Mac Space Delete Adobe Cache](https://chrispennington.blog/blog/clear-mac-space-delete-adobe-cache/)
-- [Listing Array Items in Natural Language](https://chrispennington.blog/blog/listing-array-items-in-natural-language/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...][blog]
