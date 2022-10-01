@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What is the Reduce Method?](https://www.youtube.com/watch?v=lzIMDPfNIq4)
 - [JavaScript Reduce Method](https://www.youtube.com/watch?v=7o0KR-wAMwg)
 - [Live Code: Net Ninja Coding Challenges](https://www.youtube.com/watch?v=By-9xVaeHt0)
 - [Vanilla JavaScript Challenge &lpar;Working with Objects&rpar;](https://www.youtube.com/watch?v=rpxqIoT88oQ)
 - [Multiple cursor case preserve #shorts](https://www.youtube.com/watch?v=0h9JktnMhJU)
-- [Custom Theme Switcher &lpar;React Project&rpar;](https://www.youtube.com/watch?v=yjRv73QZ7tw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
