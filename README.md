@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live Code: Junior React Dev Interview Project](https://www.youtube.com/watch?v=4lNEyp9Kzbg)
 - [5 Best VSCode Themes](https://www.youtube.com/watch?v=nTATvRVGhSg)
 - [What is the Reduce Method?](https://www.youtube.com/watch?v=lzIMDPfNIq4)
 - [JavaScript Reduce Method](https://www.youtube.com/watch?v=7o0KR-wAMwg)
 - [Live Code: Net Ninja Coding Challenges](https://www.youtube.com/watch?v=By-9xVaeHt0)
+- [Vanilla JavaScript Challenge &lpar;Working with Objects&rpar;](https://www.youtube.com/watch?v=rpxqIoT88oQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
