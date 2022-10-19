@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to Create a Card Component in Figma &lpar;Variant, Boolean, Instance Swap, and Text&rpar;](https://www.youtube.com/watch?v=K9BXnBv7zU8)
 - [Custom before/after image slider #shorts](https://www.youtube.com/watch?v=moWLwSnz5-E)
 - [How to use PostCSS &lpar;the ultimate CSS Tool!&rpar;](https://www.youtube.com/watch?v=nx8XgnJNvec)
 - [Live Stream: Let’s Design My Blog!](https://www.youtube.com/watch?v=DGTZa0BiSpA)
 - [5 Best VSCode Themes](https://www.youtube.com/watch?v=nTATvRVGhSg)
-- [What is the Reduce Method?](https://www.youtube.com/watch?v=lzIMDPfNIq4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
