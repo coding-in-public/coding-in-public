@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🧪 your Fetch skills #shorts](https://www.youtube.com/watch?v=rxCIa-DDYqk)
 - [Vanilla JavaScript Challenge &lpar;Working with the Fetch API&rpar;](https://www.youtube.com/watch?v=ajHzA816DeY)
 - [Live Code: Frontend Mentor Notifications Page &lpar;React Project&rpar;](https://www.youtube.com/watch?v=GQIwZ0ix6EE)
 - [How to Create a Card Component in Figma &lpar;Variant, Boolean, Instance Swap, and Text&rpar;](https://www.youtube.com/watch?v=K9BXnBv7zU8)
 - [Custom before/after image slider #shorts](https://www.youtube.com/watch?v=moWLwSnz5-E)
-- [How to use PostCSS &lpar;the ultimate CSS Tool!&rpar;](https://www.youtube.com/watch?v=nx8XgnJNvec)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
