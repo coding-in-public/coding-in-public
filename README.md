@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [HTML, CSS, and JavaScript Custom Widget](https://www.youtube.com/watch?v=WVJLrbiMKhM)
 - [Edit Linked Tags in VSCode #shorts](https://www.youtube.com/watch?v=w5dahEQWtsc)
 - [🧪 your Fetch skills #shorts](https://www.youtube.com/watch?v=rxCIa-DDYqk)
 - [Vanilla JavaScript Challenge &lpar;Working with the Fetch API&rpar;](https://www.youtube.com/watch?v=ajHzA816DeY)
 - [Live Code: Frontend Mentor Notifications Page &lpar;React Project&rpar;](https://www.youtube.com/watch?v=GQIwZ0ix6EE)
-- [How to Create a Card Component in Figma &lpar;Variant, Boolean, Instance Swap, and Text&rpar;](https://www.youtube.com/watch?v=K9BXnBv7zU8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
