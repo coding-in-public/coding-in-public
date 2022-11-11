@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Code: Frontend Mentor News Homepage &lpar;React Project&rpar;](https://www.youtube.com/watch?v=l9TImlAoMc0)
 - [How to Format Dates with Vanilla JavaScript](https://www.youtube.com/watch?v=L96bnt7KG6Y)
 - [Live Code: Memory Game &lpar;React Project&rpar;](https://www.youtube.com/watch?v=S1Bb_UDWkW0)
 - [HTML, CSS, and JavaScript Custom Widget](https://www.youtube.com/watch?v=WVJLrbiMKhM)
 - [Edit Linked Tags in VSCode #shorts](https://www.youtube.com/watch?v=w5dahEQWtsc)
-- [🧪 your Fetch skills #shorts](https://www.youtube.com/watch?v=rxCIa-DDYqk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
