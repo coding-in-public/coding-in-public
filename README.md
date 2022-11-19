@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [IDE-style Warp Terminal Update](https://www.youtube.com/watch?v=nBxbmndS2cU)
 - [Building a React Card Component with TypeScript](https://www.youtube.com/watch?v=MlYTWFUdpyM)
 - [Live Code: Frontend Mentor News Homepage](https://www.youtube.com/watch?v=l9TImlAoMc0)
 - [Tab Out of strings, parenthesis, brackets, and more! #shorts](https://www.youtube.com/watch?v=kwhXVfF2z20)
 - [How to Format Dates with Vanilla JavaScript](https://www.youtube.com/watch?v=L96bnt7KG6Y)
-- [Live Code: Memory Game &lpar;React Project&rpar;](https://www.youtube.com/watch?v=S1Bb_UDWkW0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
