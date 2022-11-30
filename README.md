@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [👀 Reviewing YOUR Sites!](https://www.youtube.com/watch?v=npkDQ-JRF8g)
 - [Live Code: Astro Static Site Generator Build &lpar;real coffee website!&rpar;](https://www.youtube.com/watch?v=59N0wkvf12I)
 - [1 to X with Text Pastry!](https://www.youtube.com/watch?v=5Kl_Zv97aJE)
 - [Custom Elastic Toggle Switch &lpar;CSS, HTML, JavaScript&rpar;](https://www.youtube.com/watch?v=TdIr1sVe7Ig)
 - [IDE-style Warp Terminal Update](https://www.youtube.com/watch?v=nBxbmndS2cU)
-- [Building a React Card Component with TypeScript](https://www.youtube.com/watch?v=MlYTWFUdpyM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
