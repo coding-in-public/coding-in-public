@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to remove weird magic image space!](https://www.youtube.com/watch?v=twM45uSxn14)
 - [Astro Crash Course in 20 Minutes!](https://www.youtube.com/watch?v=zrPVTf761OI)
 - [👀 Reviewing YOUR Sites!](https://www.youtube.com/watch?v=npkDQ-JRF8g)
 - [Live Code: Astro Static Site Generator Build &lpar;real coffee website!&rpar;](https://www.youtube.com/watch?v=59N0wkvf12I)
 - [1 to X with Text Pastry!](https://www.youtube.com/watch?v=5Kl_Zv97aJE)
-- [Custom Elastic Toggle Switch &lpar;CSS, HTML, JavaScript&rpar;](https://www.youtube.com/watch?v=TdIr1sVe7Ig)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
