@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Astro Blog Course #3 - Layouts](https://www.youtube.com/watch?v=rK-rNRPyET0)
 - [Astro Blog Course #2 - Astro Basics](https://www.youtube.com/watch?v=JFHmIp58YOU)
 - [Astro Blog Course #1 - Intro and Installation](https://www.youtube.com/watch?v=F2pw1C9eKXw)
 - [Console Ninja VSCode Extension](https://www.youtube.com/watch?v=OC-_fcJyz_c)
 - [How to remove weird magic image space!](https://www.youtube.com/watch?v=twM45uSxn14)
-- [Astro Crash Course in 20 Minutes!](https://www.youtube.com/watch?v=zrPVTf761OI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
