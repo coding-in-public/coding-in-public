@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Design: Landing Page Figma Design](https://www.youtube.com/watch?v=he3P9NKAJmg)
 - [Astro Blog Course #7 - Markdown layouts](https://www.youtube.com/watch?v=39qi3YxyiX8)
 - [Astro Blog Course #6 - Routing basics](https://www.youtube.com/watch?v=TnZ8MkddAUA)
 - [Astro Blog Course #5 - Astro Components](https://www.youtube.com/watch?v=-d7L2n6y5PU)
 - [Astro Blog Course #4 - CSS &amp; styling](https://www.youtube.com/watch?v=KNtax5dHPfI)
-- [Astro Blog Course #3 - Layouts](https://www.youtube.com/watch?v=rK-rNRPyET0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
