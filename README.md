@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Astro Blog Course #16 - SEO basics](https://www.youtube.com/watch?v=fPifaHiKzz4)
 - [Astro Blog Course #15 - Build an RSS feed](https://www.youtube.com/watch?v=1Ep0gtED2wk)
 - [Astro Blog Course #14 - Build a sitemap](https://www.youtube.com/watch?v=8-qm9A24U9s)
 - [Astro Blog Course #13 - Related posts](https://www.youtube.com/watch?v=S3cX_zJ8_Kw)
 - [Astro Blog Course #12 - Tag cloud](https://www.youtube.com/watch?v=AP2UD0wetAI)
-- [Astro Blog Course #11 - Pagination](https://www.youtube.com/watch?v=j_kWnI8rdLA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
