@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Astro Blog Course - Full 3.5 hour course](https://www.youtube.com/watch?v=6XzyobQYQVQ)
 - [Live Code: Frontend Mentor Multi-step Form](https://www.youtube.com/watch?v=jNZNkmRqVg4)
 - [React Email First Look](https://www.youtube.com/watch?v=MdO1AKVTkLI)
 - [Astro Blog Course #18 - Build, deploy, and update](https://www.youtube.com/watch?v=TIlghu35niY)
 - [Astro Blog Course #17 - Integrations &lpar;React, Tailwind, CMS, and more&rpar;](https://www.youtube.com/watch?v=VzU_yqmIuPM)
-- [Astro Blog Course #16 - SEO basics](https://www.youtube.com/watch?v=fPifaHiKzz4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
