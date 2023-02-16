@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Warp Terminal Update February 2023](https://www.youtube.com/watch?v=yY8yfNEU1hs)
 - [Review Card Figma to Code &lpar;React Project&rpar;](https://www.youtube.com/watch?v=pQLJAxRjDig)
 - [Quicker Console Logs #shorts](https://www.youtube.com/watch?v=jmRNWfYvzKs)
 - [React Toastify: Popup Message Library](https://www.youtube.com/watch?v=7CcAKre3Ifc)
 - [What’s New in Astro 2.0?](https://www.youtube.com/watch?v=fCcT6-PqL1Q)
-- [Astro 2.0 👨‍🚀🚀 Content Collections API Deep Dive](https://www.youtube.com/watch?v=zUmqmuSvJMs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
