@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Vanilla JavaScript Challenge &lpar;Formatting Strings and Numbers&rpar;](https://www.youtube.com/watch?v=smEqr0n2HNs)
 - [Live Code: Frontend Mentor Multi-step Form &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=CLrg2v_ZABs)
 - [Warp Terminal Update February 2023](https://www.youtube.com/watch?v=yY8yfNEU1hs)
 - [Review Card Figma to Code &lpar;React Project&rpar;](https://www.youtube.com/watch?v=pQLJAxRjDig)
 - [Quicker Console Logs #shorts](https://www.youtube.com/watch?v=jmRNWfYvzKs)
-- [React Toastify: Popup Message Library](https://www.youtube.com/watch?v=7CcAKre3Ifc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
