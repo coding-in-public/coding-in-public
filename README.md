@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Design to Code Voting Component &lpar;Code&rpar;](https://www.youtube.com/watch?v=I3uM5upX2A4)
 - [Design to Code Voting Component &lpar;Design&rpar;](https://www.youtube.com/watch?v=tmrIAXiMeE4)
 - [Live Code: Frontend Mentor Interactive Pricing Component](https://www.youtube.com/watch?v=8-8f0imWUmY)
 - [CSS Selector Basics](https://www.youtube.com/watch?v=KVmeQUsvbiQ)
 - [Get true numbers and dates from inputs!](https://www.youtube.com/watch?v=YycjLBd7pWM)
-- [Vanilla JavaScript Challenge &lpar;Formatting Strings and Numbers&rpar;](https://www.youtube.com/watch?v=smEqr0n2HNs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
