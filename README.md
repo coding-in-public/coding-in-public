@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Vanilla JavaScript Project: Tic Tac Toe](https://www.youtube.com/watch?v=sNn_Gxph3TY)
 - [Stop using [arr.length - 1]!](https://www.youtube.com/watch?v=mPtTsUtn4xA)
 - [Difference between target vs. currentTarget in JavaScript?](https://www.youtube.com/watch?v=F2pbD_Mr91Y)
 - [Design to Code Voting Component &lpar;Code&rpar;](https://www.youtube.com/watch?v=I3uM5upX2A4)
 - [Design to Code Voting Component &lpar;Design&rpar;](https://www.youtube.com/watch?v=tmrIAXiMeE4)
-- [Live Code: Frontend Mentor Interactive Pricing Component](https://www.youtube.com/watch?v=8-8f0imWUmY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
