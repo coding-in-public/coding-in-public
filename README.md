@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Goodbye SCSS, Hello Native CSS Nesting!](https://www.youtube.com/watch?v=Vk0biAS_sig)
 - [Specialized CSS: Min/max/fit-content](https://www.youtube.com/watch?v=1NFfKZO2taU)
 - [Is a condition true inside an array?](https://www.youtube.com/watch?v=6Nv87XGuY8k)
 - [Live Code: Password Component UI Design Daily](https://www.youtube.com/watch?v=sFW18ll3bUE)
 - [Vanilla JavaScript Project: Tic Tac Toe](https://www.youtube.com/watch?v=sNn_Gxph3TY)
-- [Stop using [arr.length - 1]!](https://www.youtube.com/watch?v=mPtTsUtn4xA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
