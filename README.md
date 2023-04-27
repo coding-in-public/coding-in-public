@@ -26,7 +26,7 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Figma Instance Swap Component Property](https://www.youtube.com/watch?v=nbBx8vgMpYA)
+- [How to Swap Icons in Figma](https://www.youtube.com/watch?v=nbBx8vgMpYA)
 - [Native CSS Nesting is Here!](https://www.youtube.com/watch?v=9WBxSVHiM0w)
 - [Transcribe Speech to Text for FREE with Whisper AI](https://www.youtube.com/watch?v=rymNaq85-RE)
 - [Live Code: Frontend Mentor Results Summary Component](https://www.youtube.com/watch?v=qytRL4PUunw)
