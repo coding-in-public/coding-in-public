@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Stream: Let’s Design My Blog!](https://www.youtube.com/watch?v=rCg6QnFwKsk)
 - [How to Swap Icons in Figma](https://www.youtube.com/watch?v=nbBx8vgMpYA)
 - [Native CSS Nesting is Here!](https://www.youtube.com/watch?v=9WBxSVHiM0w)
 - [Transcribe Speech to Text for FREE with Whisper AI](https://www.youtube.com/watch?v=rymNaq85-RE)
 - [Live Code: Frontend Mentor Results Summary Component](https://www.youtube.com/watch?v=qytRL4PUunw)
-- [Offload Third-Party Scripts with Partytown 🎉](https://www.youtube.com/watch?v=DjUWMZAzOMA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
