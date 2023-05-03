@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Why I don’t need Algolia Search](https://www.youtube.com/watch?v=7CCQJ0bu9s8)
 - [Live Stream: Let’s Design My Blog!](https://www.youtube.com/watch?v=rCg6QnFwKsk)
 - [How to Swap Icons in Figma](https://www.youtube.com/watch?v=nbBx8vgMpYA)
 - [Native CSS Nesting is Here!](https://www.youtube.com/watch?v=9WBxSVHiM0w)
 - [Transcribe Speech to Text for FREE with Whisper AI](https://www.youtube.com/watch?v=rymNaq85-RE)
-- [Live Code: Frontend Mentor Results Summary Component](https://www.youtube.com/watch?v=qytRL4PUunw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
