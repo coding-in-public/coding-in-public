@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Coding my Blog in Astro Live](https://www.youtube.com/watch?v=88kzfaER0B0)
 - [Snippets can have dropdown menus!?](https://www.youtube.com/watch?v=F_Y4y5IOkzY)
 - [Coding my Blog in Astro Live](https://www.youtube.com/watch?v=3nNchCw8x3E)
 - [Why I don’t need Algolia Search](https://www.youtube.com/watch?v=7CCQJ0bu9s8)
 - [Live Stream: Let’s Design My Blog!](https://www.youtube.com/watch?v=rCg6QnFwKsk)
-- [How to Swap Icons in Figma](https://www.youtube.com/watch?v=nbBx8vgMpYA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
