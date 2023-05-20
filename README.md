@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Get all values from submitted form](https://www.youtube.com/watch?v=ho_30dN-GMM)
 - [You’re doing dark mode wrong!](https://www.youtube.com/watch?v=WTchW0LdWL0)
 - [Coding my Blog in Astro Live](https://www.youtube.com/watch?v=88kzfaER0B0)
 - [Snippets can have dropdown menus!?](https://www.youtube.com/watch?v=F_Y4y5IOkzY)
 - [Coding my Blog in Astro Live](https://www.youtube.com/watch?v=3nNchCw8x3E)
-- [Why I don’t need Algolia Search](https://www.youtube.com/watch?v=7CCQJ0bu9s8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
