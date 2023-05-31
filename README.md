@@ -26,11 +26,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Problem with Google Fonts &lpar;and how to fix it&rpar;](https://www.youtube.com/watch?v=lksnr4e-npo)
 - [Live Code: Newsletter Submission Form &lpar;Frontend Mentor&rpar; — HTML, CSS, JavaScript](https://www.youtube.com/watch?v=HfDGl1bpJYo)
 - [Using JavaScript to Write a Custom CLI](https://www.youtube.com/watch?v=JUaUJ4Vzt5s)
 - [Get all values from submitted form](https://www.youtube.com/watch?v=ho_30dN-GMM)
 - [You’re doing dark mode wrong!](https://www.youtube.com/watch?v=WTchW0LdWL0)
-- [Coding my Blog in Astro Live](https://www.youtube.com/watch?v=88kzfaER0B0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
