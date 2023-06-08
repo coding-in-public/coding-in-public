@@ -8,7 +8,6 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 - ⚡ Fun fact: I love all things outdoors (hiking, climbing, skiing, etc.), soccer, coffee, arts and crafts, and playing piano.
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCUSxKiac-miugK9CDsxGS9Q?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/cpenned?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%cpenned&screen_name=cpenned)
 
 ### Connect with me:
 [![website](./img/globe-light.svg)](https://codinginpublic.dev#gh-light-mode-only)
