@@ -39,11 +39,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Reduce Method](https://chrispennington.blog/blog/reduce-method-javascript/)
-- [Vs Code Keyboard Shortcuts for Coding Productivity](https://chrispennington.blog/blog/vs-code-keyboard-shortcuts-for-coding-productivity/)
-- [Introduction to Terminal Commands](https://chrispennington.blog/blog/introduction-to-terminal-commands/)
-- [Templating Classes in Astro](https://chrispennington.blog/blog/templating-classes-in-astro/)
-- [Clear Mac Space Delete Adobe Cache](https://chrispennington.blog/blog/clear-mac-space-delete-adobe-cache/)
+- [Safari Mobile is Ignoring My CSS](https://chrispennington.blog//blog/safari-mobile-text-is-too-big/)
+- [Shortcut For macOS Save Dialog](https://chrispennington.blog//blog/shortcut-for-macos-save-dialog/)
+- [How to Create and Use Multiple VSCode Profiles](https://chrispennington.blog//blog/how-to-create-and-use-multiple-vscode-profiles/)
+- [JavaScript Reduce Method](https://chrispennington.blog//blog/reduce-method-javascript/)
+- [VS Code Keyboard Shortcuts for Coding Productivity](https://chrispennington.blog//blog/vs-code-keyboard-shortcuts-for-coding-productivity/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...][blog]
