@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Stop looping over data twice!](https://www.youtube.com/watch?v=YhLOtIQUrb4)
 - [How to Optimize Images in Astro](https://www.youtube.com/watch?v=VsZ6feIU_bA)
 - [AMA: My New Blog Design](https://www.youtube.com/watch?v=k-7OMGo1ppk)
 - [Reviewing Your Sites!](https://www.youtube.com/watch?v=D46U4jTeK94)
 - [Planning makes all the difference](https://www.youtube.com/watch?v=b1OkERQwh9w)
-- [The Problem with Google Fonts &lpar;and how to fix it&rpar;](https://www.youtube.com/watch?v=lksnr4e-npo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
