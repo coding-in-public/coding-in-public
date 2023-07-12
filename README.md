@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Fetch Data on Search](https://www.youtube.com/watch?v=ds1kqadox8M)
 - [Generate JSON Search Endpoint](https://www.youtube.com/watch?v=qmdHm7M3UGY)
 - [Create a Search Route](https://www.youtube.com/watch?v=iiKk5WKDCaw)
 - [Sanitize and Redirect Input](https://www.youtube.com/watch?v=PqN1KYunov0)
 - [Add a Search Widget](https://www.youtube.com/watch?v=02j_rt_ybQo)
-- [Astro Search Tutorial: Intro and Setup](https://www.youtube.com/watch?v=SOrS_UZAHMU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
