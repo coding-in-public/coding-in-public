@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [BEST way to pick colors for your next project!](https://www.youtube.com/watch?v=9sBV4fMIrko)
 - [Show Search Results](https://www.youtube.com/watch?v=XyHli9su3d8)
 - [Add FuseJS Fuzzy Search](https://www.youtube.com/watch?v=8McrnHUwq_o)
 - [Fetch Data on Search](https://www.youtube.com/watch?v=ds1kqadox8M)
 - [Generate JSON Search Endpoint](https://www.youtube.com/watch?v=qmdHm7M3UGY)
-- [Create a Search Route](https://www.youtube.com/watch?v=iiKk5WKDCaw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
