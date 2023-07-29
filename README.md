@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Code: UI Design Daily Pricing Component &lpar;HTML, CSS, JavaScript&rpar;](https://www.youtube.com/watch?v=KgR_Rued7bk)
 - [Building an interactive Threads CLI with Warp AI and Clack](https://www.youtube.com/watch?v=SjpCnq0_PdQ)
 - [Live Code: Forgot Password Dialog &lpar;webdevdaily.io&rpar;](https://www.youtube.com/watch?v=qtkVG1CUrCI)
 - [BEST way to pick colors for your next project!](https://www.youtube.com/watch?v=9sBV4fMIrko)
 - [Show Search Results](https://www.youtube.com/watch?v=XyHli9su3d8)
-- [Add FuseJS Fuzzy Search](https://www.youtube.com/watch?v=8McrnHUwq_o)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
