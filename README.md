@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Choosing between SSR, SSG, and dynamic rendering in Astro](https://www.youtube.com/watch?v=aIHRjloFASU)
 - [Live Code: Astro Site Rebuild &lpar;real coffee website!&rpar;](https://www.youtube.com/watch?v=VDGEpachpwc)
 - [Astro Search Tutorial &lpar;Full Tutorial&rpar;](https://www.youtube.com/watch?v=XnV_2MWqAhQ)
 - [Live Code: UI Design Daily Pricing Component &lpar;HTML, CSS, JavaScript&rpar;](https://www.youtube.com/watch?v=KgR_Rued7bk)
 - [Building an interactive Threads CLI with Warp AI and Clack](https://www.youtube.com/watch?v=SjpCnq0_PdQ)
-- [Live Code: Forgot Password Dialog &lpar;webdevdaily.io&rpar;](https://www.youtube.com/watch?v=qtkVG1CUrCI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
