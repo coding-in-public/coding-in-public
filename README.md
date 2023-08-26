@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [JavaScript Arguments as Objects #coding #javascript](https://www.youtube.com/watch?v=0phWfLZINdA)
 - [My Favorite Tailwind Tools](https://www.youtube.com/watch?v=U4GYkulA3bk)
 - [Astro View Transitions First Look](https://www.youtube.com/watch?v=nctPgnXWOCw)
 - [Astro CMS for Visual Editing: Getting Started with CloudCannon](https://www.youtube.com/watch?v=YcH53e1YamE)
 - [Choosing between SSR, SSG, and dynamic rendering in Astro](https://www.youtube.com/watch?v=aIHRjloFASU)
-- [Live Code: Astro Site Rebuild &lpar;real coffee website!&rpar;](https://www.youtube.com/watch?v=VDGEpachpwc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
