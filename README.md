@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Class Variance Authority &lpar;CVA&rpar; Quickstart](https://www.youtube.com/watch?v=kHQNK2jU_TQ)
 - [🥟🤝🚀  Bun and Astro! #coding #astrojs #bunjs](https://www.youtube.com/watch?v=Mq-YmWFCLlQ)
 - [Live Code: Frontend Mentor Rest Countries API](https://www.youtube.com/watch?v=cu8vs7rPOt0)
 - [How to Use Google Sheets as a Simple CMS](https://www.youtube.com/watch?v=15y1D1mGKdE)
 - [&lpar;NEW!&rpar; Optimize Image Features in Astro 3.0](https://www.youtube.com/watch?v=vekQmqRXeDg)
-- [Astro View Transitions &lpar;3.0 Release!&rpar;](https://www.youtube.com/watch?v=9T4N0cIlBUE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
