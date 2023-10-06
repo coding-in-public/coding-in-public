@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [St. Jude Giveaway Celebration!](https://www.youtube.com/watch?v=ScCQjV0m0MU)
 - [The Dangerous Way to Customize Tailwind CSS](https://www.youtube.com/watch?v=P8NPf-MufHo)
 - [How to Use Text Fragments to Highlight Searched Text](https://www.youtube.com/watch?v=JmsSfmXiWbk)
 - [Live Code: Giveaway Astro Site Build](https://www.youtube.com/watch?v=5fDs5nGcw3E)
 - [MUST have JS/TS Tool #coding #javascript](https://www.youtube.com/watch?v=r0Wp1Vymk_A)
-- [How to work with data in Astro](https://www.youtube.com/watch?v=aS5id2273gY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
