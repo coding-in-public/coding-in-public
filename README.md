@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [You may not ACTUALLY understand Content Collections…](https://www.youtube.com/watch?v=Fcw4c3wzm7I)
 - [🔗 RSS Auto-Detect Links](https://www.youtube.com/watch?v=bYSF41mvPYA)
 - [Is ngrok dead? 💀](https://www.youtube.com/watch?v=Yigzm_ecs0c)
 - [St. Jude Giveaway Celebration!](https://www.youtube.com/watch?v=ScCQjV0m0MU)
 - [The Dangerous Way to Customize Tailwind CSS](https://www.youtube.com/watch?v=P8NPf-MufHo)
-- [How to Use Text Fragments to Highlight Searched Text](https://www.youtube.com/watch?v=JmsSfmXiWbk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
