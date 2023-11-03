@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Code: Users List Component &lpar;Beginner HTML, CSS, JavaScript&rpar;](https://www.youtube.com/watch?v=CSGnx636exA)
 - [New Rust-Based Search Tool](https://www.youtube.com/watch?v=v79VRrfVau8)
 - [New Astro App! #coding #astrojs](https://www.youtube.com/watch?v=2h1tEhJS7nw)
 - [THE Astro App for Content Collections](https://www.youtube.com/watch?v=byjO06X-LJw)
 - [Live Code: WebDevDaily Settings Card &lpar;HTML, CSS, JavaScript&rpar;](https://www.youtube.com/watch?v=reVOAhZdSPk)
-- [You may not ACTUALLY understand Content Collections…](https://www.youtube.com/watch?v=Fcw4c3wzm7I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
