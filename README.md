@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Day 4  Advent of CSS/JS challenge stream](https://www.youtube.com/watch?v=kcmhYQCS7a0)
 - [Live Code: WebDevDaily Tracking App &lpar;HTML, CSS, JavaScript&rpar;](https://www.youtube.com/watch?v=9i6QdgMuNXI)
 - [Never Forget React forwardRef Again](https://www.youtube.com/watch?v=-vw6uG1JSEA)
 - [Live Code: Users List Component &lpar;Beginner HTML, CSS, JavaScript&rpar;](https://www.youtube.com/watch?v=CSGnx636exA)
 - [Pagefind: the New Rust-Based Search Tool &lpar;with Astro&rpar;](https://www.youtube.com/watch?v=v79VRrfVau8)
-- [New Astro App! #coding #astrojs](https://www.youtube.com/watch?v=2h1tEhJS7nw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
