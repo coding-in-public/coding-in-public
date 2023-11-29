@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [&lpar;FINALLY!&rpar; Email for Developers](https://www.youtube.com/watch?v=HyDwVN1AFwY)
 - [Can I Solve this Viewer-Submitted UI Challenge?](https://www.youtube.com/watch?v=8SbNyQM-m0U)
 - [Day 4  Advent of CSS/JS challenge stream](https://www.youtube.com/watch?v=q5hs9Rm5F9Y)
 - [Build a Dark Mode without a White Mode Flash!](https://www.youtube.com/watch?v=I6ynSVZdX04)
 - [Live Code: WebDevDaily Tracking App &lpar;HTML, CSS, JavaScript&rpar;](https://www.youtube.com/watch?v=9i6QdgMuNXI)
-- [Never Forget React forwardRef Again](https://www.youtube.com/watch?v=-vw6uG1JSEA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
