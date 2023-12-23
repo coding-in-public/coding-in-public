@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Code: Frontend Mentor FAQ Accordion](https://www.youtube.com/watch?v=Zxw_g7VKkc4)
 - [Something big is happening…](https://www.youtube.com/watch?v=fzEHMWSrBvI)
 - [Live Code: Astro Site Rebuild &lpar;real coffee website!&rpar;](https://www.youtube.com/watch?v=pAuTfg-3zv4)
 - [React Dialogs &lpar;the right way&rpar;](https://www.youtube.com/watch?v=YwHJMlvZRCc)
 - [Easy Form Validation &lpar;no JavaScript&rpar;](https://www.youtube.com/watch?v=wC47xeubZhk)
-- [Live Design: Figma Real Website Redesign](https://www.youtube.com/watch?v=N6vDLfO0X-0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
