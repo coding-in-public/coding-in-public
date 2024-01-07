@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Design: Course Project Design](https://www.youtube.com/watch?v=IhJq9J_CWA8)
 - [Rendering in AstroJS #shorts #astrojs](https://www.youtube.com/watch?v=sZ7_d94U7Zw)
 - [Full-Page Snap Sections in CSS](https://www.youtube.com/watch?v=AKfkfoY6r24)
 - [Live Code: How to work with data in a real project &lpar;travel blog!&rpar;](https://www.youtube.com/watch?v=BZbNKyEf2Ro)
 - [Live Code: Frontend Mentor FAQ Accordion](https://www.youtube.com/watch?v=Zxw_g7VKkc4)
-- [Something big is happening…](https://www.youtube.com/watch?v=fzEHMWSrBvI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
