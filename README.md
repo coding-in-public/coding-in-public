@@ -25,8 +25,8 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [🔌 💡 web dev home automation! 🏡 tion#homeautomation #automation  #astrojs](https://www.youtube.com/watch?v=sLtkY7eCCYA)
 - [Live Code: Astro Portfolio Site](https://www.youtube.com/watch?v=JSRLy6Tcj9E)
+- [🔌 💡 web dev home automation! 🏡 tion#homeautomation #automation  #astrojs](https://www.youtube.com/watch?v=sLtkY7eCCYA)
 - [Import Aliases in 4 minutes!](https://www.youtube.com/watch?v=U0P7Kn3GFMQ)
 - [Live Design: Course Project Design](https://www.youtube.com/watch?v=IhJq9J_CWA8)
 - [Rendering in AstroJS #shorts #astrojs](https://www.youtube.com/watch?v=sZ7_d94U7Zw)
