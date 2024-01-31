@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Full Astro Landing Page Build with Convert Kit &lpar;and deploy to Netlify!&rpar;](https://www.youtube.com/watch?v=QStTpLfJJko)
 - [Live Code: Frontend Mentor Astro TODO App](https://www.youtube.com/watch?v=Ng4JvzL6xX8)
 - [Astro Icon just hit 1.0!](https://www.youtube.com/watch?v=Tm4XMd_CL3o)
 - [Best New Features of Resend’s Launch Week](https://www.youtube.com/watch?v=MtbqpOnI-A0)
 - [Live Code: Astro Portfolio Site](https://www.youtube.com/watch?v=JSRLy6Tcj9E)
-- [🔌 💡 web dev home automation! 🏡 tion#homeautomation #automation  #astrojs](https://www.youtube.com/watch?v=sLtkY7eCCYA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
