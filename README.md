@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Astro’s Big Announcement!](https://www.youtube.com/watch?v=yq1uD3pjhM4)
 - [Live Code: Astro Course Prep Site &lpar;Full CRUD app&rpar;](https://www.youtube.com/watch?v=IpzNH0GarFo)
 - [Dynamic API Endpoints in Astro](https://www.youtube.com/watch?v=Q1GJpcJLXhQ)
 - [Working with Images in Astro](https://www.youtube.com/watch?v=kGGnanUKM00)
 - [Live Code: Astro SSR Reading Tracker Site](https://www.youtube.com/watch?v=mxuf9T5rync)
-- [Raycast for Developers &lpar;Best Extensions&rpar;](https://www.youtube.com/watch?v=xHy2WwznpTM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
