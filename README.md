@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [better git commits!](https://www.youtube.com/watch?v=Fflyy8RBLg4)
 - [👋 Goodbye, CoPilot!  Hello, Codeium!](https://www.youtube.com/watch?v=whP7C8n7NzE)
 - [Live Code: Building with Astro DB](https://www.youtube.com/watch?v=adVbsvUf3jA)
 - [Astro’s Big Announcement!](https://www.youtube.com/watch?v=yq1uD3pjhM4)
 - [Live Code: Astro Course Prep Site &lpar;Full CRUD app&rpar;](https://www.youtube.com/watch?v=IpzNH0GarFo)
-- [Dynamic API Endpoints in Astro](https://www.youtube.com/watch?v=Q1GJpcJLXhQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
