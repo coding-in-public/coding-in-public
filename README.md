@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Code Block Syntax Highlighting in Astro](https://www.youtube.com/watch?v=47qChv5YKOs)
 - [Live Code: Book Tracker App &lpar;with Astro DB&rpar;](https://www.youtube.com/watch?v=hY40yFmlXH8)
 - [How to keep Figma styles organized](https://www.youtube.com/watch?v=royQWZw-HUY)
 - [better git commits!](https://www.youtube.com/watch?v=Fflyy8RBLg4)
 - [👋 Goodbye, CoPilot!  Hello, Codeium!](https://www.youtube.com/watch?v=whP7C8n7NzE)
-- [Live Code: Building with Astro DB](https://www.youtube.com/watch?v=adVbsvUf3jA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
