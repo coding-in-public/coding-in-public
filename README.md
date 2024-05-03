@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Code: Building with Astro DB](https://www.youtube.com/watch?v=KodTSB0kmQA)
 - [🎁 that text!](https://www.youtube.com/watch?v=jLak69SiSTI)
 - [Stop jumpy scrollbars!](https://www.youtube.com/watch?v=IiEitoeQioM)
 - [Modern CSS &lpar;Progressive Enhancements&rpar;](https://www.youtube.com/watch?v=XQrowIm3ghs)
 - [Live Code: Coffee Landing Page &lpar;Web Dev Daily Astro Build&rpar;](https://www.youtube.com/watch?v=S8afBXSkvlg)
-- [Figma styles in folders #figma #shorts](https://www.youtube.com/watch?v=_ZZcav_4saQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
