@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Astro Actions &lpar;First Look!&rpar;](https://www.youtube.com/watch?v=bGW6ldQ69Fw)
 - [Welcome to Coding in Public!](https://www.youtube.com/watch?v=VtGg59mzgOQ)
 - [Live Code: Building with Astro DB](https://www.youtube.com/watch?v=KodTSB0kmQA)
 - [🎁 that text!](https://www.youtube.com/watch?v=jLak69SiSTI)
 - [Stop jumpy scrollbars!](https://www.youtube.com/watch?v=IiEitoeQioM)
-- [Modern CSS &lpar;Progressive Enhancements&rpar;](https://www.youtube.com/watch?v=XQrowIm3ghs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
