@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Introduction to Container Queries](https://www.youtube.com/watch?v=TxtvkKe20Rs)
 - [Live Code: Frontend Mentor Contact Form Hub &lpar;with Astro&rpar;](https://www.youtube.com/watch?v=TYvn1da7RoQ)
 - [Building a Better Checkbox](https://www.youtube.com/watch?v=nCjwKGIICWs)
 - [Astro Actions &lpar;First Look!&rpar;](https://www.youtube.com/watch?v=bGW6ldQ69Fw)
 - [Welcome to Coding in Public!](https://www.youtube.com/watch?v=VtGg59mzgOQ)
-- [Live Code: Building with Astro DB](https://www.youtube.com/watch?v=KodTSB0kmQA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
