@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [better form defaults](https://www.youtube.com/watch?v=onBTUDMYYUk)
 - [Astro View Transitions Overview](https://www.youtube.com/watch?v=9MChTVlXbf8)
 - [Live Code: Form Submission in Astro](https://www.youtube.com/watch?v=iCw-k-wPMaQ)
 - [What does your brewfile say about you?](https://www.youtube.com/watch?v=twSwcTffTqw)
 - [How to Middleware in Astro](https://www.youtube.com/watch?v=dAKe6pX_2S8)
-- [AcKcHuLLy 100vh != 100vh](https://www.youtube.com/watch?v=-ZHJ9i-8WDE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
