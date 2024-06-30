@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Code: Dashboard Component &lpar;Web Dev Daily&rpar;](https://www.youtube.com/watch?v=Ow24EzRQ7dI)
 - [CSS Grid for Flexbox Devs](https://www.youtube.com/watch?v=0DPwWP14aUs)
 - [My First Impressions](https://www.youtube.com/watch?v=-NZIHSGJuzU)
 - [Live Code: Admin Dashboard &lpar;ASMR Coding&rpar;](https://www.youtube.com/watch?v=p24opLRNo0Q)
 - [How to use Firebase Auth with Astro](https://www.youtube.com/watch?v=Kjro6HzFCk0)
-- [better form defaults](https://www.youtube.com/watch?v=onBTUDMYYUk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
