@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🏝️ The Server Islands hype is real!](https://www.youtube.com/watch?v=8eq6cX9I-Ws)
 - [How to use aria-current in Tailwind](https://www.youtube.com/watch?v=910m7o1xdMA)
 - [When should you use CSS Grid?](https://www.youtube.com/watch?v=uL36xtDcGGM)
 - [Live Code: Dashboard Component &lpar;Web Dev Daily&rpar;](https://www.youtube.com/watch?v=Ow24EzRQ7dI)
 - [CSS Grid for Flexbox Devs](https://www.youtube.com/watch?v=0DPwWP14aUs)
-- [My First Impressions](https://www.youtube.com/watch?v=-NZIHSGJuzU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
