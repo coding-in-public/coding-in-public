@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Is Astro getting too complex?](https://www.youtube.com/watch?v=nRCnBvHcvsw)
 - [Live Code: Frontend Mentor Product List with Cart &lpar;with Astro&rpar;](https://www.youtube.com/watch?v=06y49jiG9UQ)
 - [Next Font for Astro Sites](https://www.youtube.com/watch?v=yuA38V6zszc)
 - [Easy list formatting in #javascript](https://www.youtube.com/watch?v=Im2ZvYTmLJQ)
 - [🏝️ The Server Islands hype is real!](https://www.youtube.com/watch?v=8eq6cX9I-Ws)
-- [How to use aria-current in Tailwind](https://www.youtube.com/watch?v=910m7o1xdMA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
