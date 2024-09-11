@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to actually benefit from tutorials](https://www.youtube.com/watch?v=EfR3qI4FKk8)
 - [Live Code: St. Jude Fundraiser!](https://www.youtube.com/watch?v=PNNkx4h13pU)
 - [My new favorite way to use git](https://www.youtube.com/watch?v=06lEP59XAgM)
 - [GIT commit 🤝 right user](https://www.youtube.com/watch?v=N0c9WIjIuO0)
 - [Is Astro getting too complex?](https://www.youtube.com/watch?v=nRCnBvHcvsw)
-- [Live Code: Frontend Mentor Product List with Cart &lpar;with Astro&rpar;](https://www.youtube.com/watch?v=06y49jiG9UQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
