@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Simple Table of Contents with Astro](https://www.youtube.com/watch?v=Z05ZYpcjL3o)
 - [Live Code: Website Redesign &lpar;Design and Code&rpar;](https://www.youtube.com/watch?v=qYQJrsdwYpU)
 - [How to actually benefit from tutorials](https://www.youtube.com/watch?v=EfR3qI4FKk8)
 - [Live Code: St. Jude Fundraiser!](https://www.youtube.com/watch?v=PNNkx4h13pU)
 - [My new favorite way to use git](https://www.youtube.com/watch?v=06lEP59XAgM)
-- [GIT commit 🤝 right user](https://www.youtube.com/watch?v=N0c9WIjIuO0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
