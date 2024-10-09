@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Astro’s BIG new feature](https://www.youtube.com/watch?v=NdIzsGGYuTk)
 - [Live Code: Frontend Mentor Bento Grid](https://www.youtube.com/watch?v=qvb2JRDecoA)
 - [2024 Fundraiser Giveaway Stream!](https://www.youtube.com/watch?v=cb3NJOi1oJ8)
 - [Live Code: Website Redesign &lpar;Design and Code&rpar;](https://www.youtube.com/watch?v=_VvZxKPfEaU)
 - [Simple Table of Contents with Astro](https://www.youtube.com/watch?v=Z05ZYpcjL3o)
-- [Live Code: Website Redesign &lpar;Design and Code&rpar;](https://www.youtube.com/watch?v=qYQJrsdwYpU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
