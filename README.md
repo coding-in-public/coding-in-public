@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [NEW level of data flexibility](https://www.youtube.com/watch?v=WJuA3md63EE)
 - [Live Design: Photography Client Site in Figma](https://www.youtube.com/watch?v=gVPp4T6eU7E)
 - [Favorite New Tailwind Extension](https://www.youtube.com/watch?v=ByX1KyW0uPM)
 - [Rebuild My Site with Me in 🚀 Astro](https://www.youtube.com/watch?v=GVO4e-DoC-I)
 - [NEW Cloudinary SDK for Astro!](https://www.youtube.com/watch?v=EYKEcwV_T84)
-- [👀 BIG Astro Update! 🚀 #astrojs #shorts #programming #coding](https://www.youtube.com/watch?v=rYKeZT3ri0I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
