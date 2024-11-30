@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Day 4  Advent of CSS/JS challenge stream](https://www.youtube.com/watch?v=gWqlJVCkqlk)
 - [Best Astro features released in 2024](https://www.youtube.com/watch?v=KndczWd__3U)
 - [Live Code: 404 Page &lpar;Web Dev Daily&rpar;](https://www.youtube.com/watch?v=zRVhCxLsBeg)
 - [Validated ENV vars in Astro](https://www.youtube.com/watch?v=XutYX9_PxnM)
 - [NEW level of data flexibility](https://www.youtube.com/watch?v=WJuA3md63EE)
+- [Live Design: Photography Client Site in Figma](https://www.youtube.com/watch?v=gVPp4T6eU7E)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
