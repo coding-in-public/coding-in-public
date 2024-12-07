@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🥳 Learn Astro Launch Party 🥳](https://www.youtube.com/watch?v=rOvEFu89UQc)
 - [Astro 5.0 Crash Course](https://www.youtube.com/watch?v=eQXG75XirdE)
 - [Astro 5 is here! &lpar;Best new features!&rpar;](https://www.youtube.com/watch?v=KndczWd__3U)
 - [Live Code: 404 Page &lpar;Web Dev Daily&rpar;](https://www.youtube.com/watch?v=zRVhCxLsBeg)
 - [Validated ENV vars in Astro](https://www.youtube.com/watch?v=XutYX9_PxnM)
-- [NEW level of data flexibility](https://www.youtube.com/watch?v=WJuA3md63EE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
