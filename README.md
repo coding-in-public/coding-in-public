@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [JS is more powerful than you remember](https://www.youtube.com/watch?v=5wQLRGCKTpc)
 - [Live Code: Advent of JS Day 2](https://www.youtube.com/watch?v=nw-LtRS4Ibw)
 - [Astro Server Island Example: YouTube Videos](https://www.youtube.com/watch?v=Tee9GJsnvKc)
 - [🥳 Learn Astro Launch Party 🥳](https://www.youtube.com/watch?v=rOvEFu89UQc)
 - [Astro 5.0 Crash Course](https://www.youtube.com/watch?v=eQXG75XirdE)
-- [Astro 5 is here! &lpar;Best new features!&rpar;](https://www.youtube.com/watch?v=KndczWd__3U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
