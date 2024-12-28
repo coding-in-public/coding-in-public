@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Everything you need to know about the Popover API](https://www.youtube.com/watch?v=yEiXY_m7u8Q)
 - [Live Code: Advent of JS Day 23](https://www.youtube.com/watch?v=fSJSvLBcP5I)
 - [JS is more powerful than you remember](https://www.youtube.com/watch?v=5wQLRGCKTpc)
 - [Live Code: Advent of JS Day 2](https://www.youtube.com/watch?v=nw-LtRS4Ibw)
 - [Astro Server Island Example: YouTube Videos](https://www.youtube.com/watch?v=Tee9GJsnvKc)
-- [🥳 Learn Astro Launch Party 🥳](https://www.youtube.com/watch?v=rOvEFu89UQc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
