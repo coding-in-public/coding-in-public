@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [New JS array methods!](https://www.youtube.com/watch?v=36EsJsju8r4)
 - [Best extension for design systems](https://www.youtube.com/watch?v=37zaxMB7_e0)
 - [Live Code: Let’s Learn ReactRouter7](https://www.youtube.com/watch?v=oCIs-XF6xAI)
 - [Everything you need to know about the Popover API](https://www.youtube.com/watch?v=yEiXY_m7u8Q)
 - [Live Code: Advent of JS Day 23](https://www.youtube.com/watch?v=fSJSvLBcP5I)
-- [JS is more powerful than you remember](https://www.youtube.com/watch?v=5wQLRGCKTpc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
