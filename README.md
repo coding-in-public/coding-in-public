@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [GIT…one hunk at a time](https://www.youtube.com/watch?v=leYrUhWSBUk)
 - [Live Code: Dev Learning Portfolio App](https://www.youtube.com/watch?v=ueCr8EklBek)
 - [2 types of Astro Action errors](https://www.youtube.com/watch?v=o3uX7V0cGeQ)
 - [❌ flex ✅ grid](https://www.youtube.com/watch?v=xMRxER2XfKA)
 - [Live Code: Dev Learning Portfolio App](https://www.youtube.com/watch?v=4xJsAgQYVkE)
-- [New JS array methods!](https://www.youtube.com/watch?v=36EsJsju8r4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
