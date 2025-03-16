@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Lofi Coding Session: Astro Portfolio Site](https://www.youtube.com/watch?v=CKRXM-mHIIQ)
 - [Lofi Coding Session: Astro Portfolio Site](https://www.youtube.com/watch?v=aOL9TXl36aM)
 - [zoxide — better `cd` command](https://www.youtube.com/watch?v=_tFuiIIADzg)
 - [How to use Astro’s reference&lpar;&rpar; helper](https://www.youtube.com/watch?v=iXERScryY6w)
 - [GIT…one hunk at a time](https://www.youtube.com/watch?v=leYrUhWSBUk)
-- [Live Code: Dev Learning Portfolio App](https://www.youtube.com/watch?v=ueCr8EklBek)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
