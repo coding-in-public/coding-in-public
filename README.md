@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [my channel is changing for good](https://www.youtube.com/watch?v=WE5uVarTqVo)
 - [Markdown SO EASY in Astro!](https://www.youtube.com/watch?v=cbPlVVHyYoc)
 - [Starwind UI: shadcn/ui for Astro](https://www.youtube.com/watch?v=WUNGv0uJPBQ)
 - [Lofi Coding Session: Astro Portfolio Site](https://www.youtube.com/watch?v=CKRXM-mHIIQ)
 - [Lofi Coding Session: Astro Portfolio Site](https://www.youtube.com/watch?v=aOL9TXl36aM)
-- [zoxide — better `cd` command](https://www.youtube.com/watch?v=_tFuiIIADzg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
