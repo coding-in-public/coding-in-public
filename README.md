@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Learn Astro Course - Lesson 2 &lpar;free preview&rpar;](https://www.youtube.com/watch?v=gDOhNgZk7v8)
+- [Learn Astro Course - Lesson 1 &lpar;free preview&rpar;](https://www.youtube.com/watch?v=HZ4pCYg9Rws)
 - [Live Code: Frontend Mentor Browser Extension Manager &lpar;Astro&rpar;](https://www.youtube.com/watch?v=75DVDtWy8nY)
 - [my channel is changing for good](https://www.youtube.com/watch?v=WE5uVarTqVo)
 - [Markdown SO EASY in Astro!](https://www.youtube.com/watch?v=cbPlVVHyYoc)
-- [Starwind UI: shadcn/ui for Astro](https://www.youtube.com/watch?v=WUNGv0uJPBQ)
-- [Lofi Coding Session: Astro Portfolio Site](https://www.youtube.com/watch?v=CKRXM-mHIIQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
