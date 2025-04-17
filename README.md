@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Learn Astro Course - Lesson 2 &lpar;free preview&rpar;](https://www.youtube.com/watch?v=gDOhNgZk7v8)
-- [Learn Astro Course - Lesson 1 &lpar;free preview&rpar;](https://www.youtube.com/watch?v=HZ4pCYg9Rws)
+- [Lesson 4 — Astro File Structure](https://www.youtube.com/watch?v=1DdgoDJdVFA)
+- [Lesson 3 — Structure and Routing Basics](https://www.youtube.com/watch?v=QEyrcemEKMk)
+- [Lesson 2 — Installation and Setup](https://www.youtube.com/watch?v=gDOhNgZk7v8)
+- [Lesson 1 — Introduction to Astro](https://www.youtube.com/watch?v=HZ4pCYg9Rws)
 - [Live Code: Frontend Mentor Browser Extension Manager &lpar;Astro&rpar;](https://www.youtube.com/watch?v=75DVDtWy8nY)
-- [my channel is changing for good](https://www.youtube.com/watch?v=WE5uVarTqVo)
-- [Markdown SO EASY in Astro!](https://www.youtube.com/watch?v=cbPlVVHyYoc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
