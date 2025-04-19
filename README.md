@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Lesson 9 — Exercise &lpar;Card Component&rpar;](https://www.youtube.com/watch?v=7N-I89zanck)
+- [Lesson 8 — Client-side JavaScript](https://www.youtube.com/watch?v=-NxMLVdVoEI)
 - [Lesson 7 — CSS and Styling](https://www.youtube.com/watch?v=Q57DnZhucB4)
 - [Lesson 6 — Your First Astro Component](https://www.youtube.com/watch?v=F6D4ydLRNKc)
 - [Lesson 5 — Layouts and Slots](https://www.youtube.com/watch?v=YBqxPCNmhSc)
-- [Lesson 4 — Astro File Structure](https://www.youtube.com/watch?v=1DdgoDJdVFA)
-- [Lesson 3 — Structure and Routing Basics](https://www.youtube.com/watch?v=QEyrcemEKMk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
