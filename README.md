@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Setup Mintlify docs in 10min](https://www.youtube.com/watch?v=O2_RxcxsoWg)
 - [Live Code: Recipe Application with Astro &lpar;Web Dev Daily&rpar;](https://www.youtube.com/watch?v=CvNbieiSqQc)
 - [Astro&#39;s newest feature](https://www.youtube.com/watch?v=xiP_BwVb3RQ)
 - [Lesson 9 — Exercise &lpar;Card Component&rpar;](https://www.youtube.com/watch?v=7N-I89zanck)
 - [Lesson 8 — Client-side JavaScript](https://www.youtube.com/watch?v=-NxMLVdVoEI)
-- [Lesson 7 — CSS and Styling](https://www.youtube.com/watch?v=Q57DnZhucB4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
