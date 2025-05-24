@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Code: Quiz App &lpar;😫 struggled, but you&#39;re welcome to watch&rpar;](https://www.youtube.com/watch?v=Zn_rM9ggdVM)
+- [Day 4  Advent of CSS/JS challenge stream](https://www.youtube.com/watch?v=mmfzj6iZB6o)
 - [New Astro content entries from the CLI](https://www.youtube.com/watch?v=nhNbjt4q9Ms)
 - [Reacting to Dan Abramov](https://www.youtube.com/watch?v=XiC5pvBrwEA)
 - [Setup Mintlify docs in 10min](https://www.youtube.com/watch?v=O2_RxcxsoWg)
-- [Live Code: Recipe Application with Astro &lpar;Web Dev Daily&rpar;](https://www.youtube.com/watch?v=CvNbieiSqQc)
-- [Astro&#39;s newest feature](https://www.youtube.com/watch?v=xiP_BwVb3RQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
