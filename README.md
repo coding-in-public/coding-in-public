@@ -25,7 +25,7 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Your images deserve better](https://www.youtube.com/watch?v=j3UCTGXjD3g)
+- [Improve images in Astro](https://www.youtube.com/watch?v=j3UCTGXjD3g)
 - [Can AI code Astro?](https://www.youtube.com/watch?v=eEWdUvVtGZU)
 - [Reacting to Arc&#39;s Letter](https://www.youtube.com/watch?v=0qX5Ddg7KXg)
 - [Live Code: Quiz App &lpar;😫 struggled, but you&#39;re welcome to watch&rpar;](https://www.youtube.com/watch?v=Zn_rM9ggdVM)
