@@ -25,7 +25,7 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Perfect Images &lpar;ft. Matt Kane, Astro Core Maintainer&rpar;](https://www.youtube.com/watch?v=Z6w4G_6k7rw)
+- [Perfect Images &lpar;starts at 15min&rpar; — &lpar;ft. Matt Kane, Astro Core Maintainer&rpar;](https://www.youtube.com/watch?v=Z6w4G_6k7rw)
 - [Live Code: Coffee e-commerce app](https://www.youtube.com/watch?v=71QJdhQpUvE)
 - [Improve images in Astro](https://www.youtube.com/watch?v=j3UCTGXjD3g)
 - [Can AI code Astro?](https://www.youtube.com/watch?v=eEWdUvVtGZU)
