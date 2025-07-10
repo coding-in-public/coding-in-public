@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to code Astro in Cursor](https://www.youtube.com/watch?v=kBHFaatxRQg)
 - [Live Code: Test Your JS Skills with Me](https://www.youtube.com/watch?v=rNvOyaYWziA)
 - [Modern JavaScript TODO app](https://www.youtube.com/watch?v=VjrNDF5bZf4)
 - [Live/Vibe Code: Vercel V0 Quiz App](https://www.youtube.com/watch?v=mbWKZFmkOZI)
 - [Perfect Images — &lpar;ft. Matt Kane, Astro Core Maintainer&rpar;](https://www.youtube.com/watch?v=Z6w4G_6k7rw)
-- [Live Code: Coffee e-commerce app](https://www.youtube.com/watch?v=71QJdhQpUvE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
