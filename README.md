@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [JavaScript Operators you should know](https://www.youtube.com/watch?v=yP9g2k6-zXQ)
 - [Live Code: Secret Project &lpar;Astro refactor&rpar;](https://www.youtube.com/watch?v=WMtPiZLcRTY)
 - [How to code Astro in Cursor](https://www.youtube.com/watch?v=kBHFaatxRQg)
 - [Live Code: Test Your JS Skills with Me](https://www.youtube.com/watch?v=rNvOyaYWziA)
 - [Modern JavaScript TODO app](https://www.youtube.com/watch?v=VjrNDF5bZf4)
-- [Live/Vibe Code: Vercel V0 Quiz App](https://www.youtube.com/watch?v=mbWKZFmkOZI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
