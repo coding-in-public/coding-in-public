@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live VIM: Chris tries to learn VIM &lpar;day 1&rpar;](https://www.youtube.com/watch?v=QTxPy_Q-GAY)
 - [Why everyone is talking about OKLCH](https://www.youtube.com/watch?v=kVi9Augt7HY)
 - [Live Design: Let&#39;s design Advent of Astro](https://www.youtube.com/watch?v=ziuZWUPNq3o)
 - [They fixed Astro DB types!](https://www.youtube.com/watch?v=dzRr7Req4ZA)
 - [Live Design: Let&#39;s create my next project](https://www.youtube.com/watch?v=I30IoU6N5yA)
-- [Convex is changing backend](https://www.youtube.com/watch?v=BjyBtL1WWmg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
