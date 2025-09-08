@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Code: Let&#39;s code Advent of Astro](https://www.youtube.com/watch?v=p2vKyv3SsdA)
+- [Day 4  Advent of CSS/JS challenge stream](https://www.youtube.com/watch?v=YDjFbyvGAEs)
 - [3 ways to use React in Astro](https://www.youtube.com/watch?v=b9nbtjWQb5k)
 - [Live VIM: Chris tries to learn VIM &lpar;day 1&rpar;](https://www.youtube.com/watch?v=QTxPy_Q-GAY)
 - [Why everyone is talking about OKLCH](https://www.youtube.com/watch?v=kVi9Augt7HY)
-- [Live Design: Let&#39;s design Advent of Astro](https://www.youtube.com/watch?v=ziuZWUPNq3o)
-- [They fixed Astro DB types!](https://www.youtube.com/watch?v=dzRr7Req4ZA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
