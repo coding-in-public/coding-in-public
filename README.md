@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Eloquent JavaScript: Chapter 3](https://www.youtube.com/watch?v=sSDcfEyWvuM)
 - [Relative colors are HERE!](https://www.youtube.com/watch?v=oTdQaaqtGDk)
 - [Eloquent JavaScript: Chapter 2](https://www.youtube.com/watch?v=ueKmR7a6A08)
 - [Eloquent JavaScript: Chapter 1](https://www.youtube.com/watch?v=hhrfVWThQMo)
 - [Don&#39;t sleep on grid-template-areas](https://www.youtube.com/watch?v=vbdSH9c4hn0)
-- [Live Code: Let&#39;s code Advent of Astro](https://www.youtube.com/watch?v=p2vKyv3SsdA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
