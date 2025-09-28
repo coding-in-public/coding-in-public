@@ -26,7 +26,7 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 
 <!-- YOUTUBE:START -->
 - [An Interview 10 Years in the Making](https://www.youtube.com/watch?v=_0Y_7-mjVkg)
-- [Eloquent JavaScript: Chapter 4](https://www.youtube.com/watch?v=HdXrNByHZE4)
+- [Eloquent JavaScript: Chapter 4 &lpar;part 1&rpar;](https://www.youtube.com/watch?v=HdXrNByHZE4)
 - [How to use video in an Astro site](https://www.youtube.com/watch?v=eYzZbmCE_T4)
 - [Eloquent JavaScript: Chapter 3](https://www.youtube.com/watch?v=sSDcfEyWvuM)
 - [Relative colors are HERE!](https://www.youtube.com/watch?v=oTdQaaqtGDk)
