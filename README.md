@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [An Interview 10 Years in the Making](https://www.youtube.com/watch?v=_0Y_7-mjVkg)
+- [Eloquent JavaScript: Chapter 4 &lpar;part 2&rpar;](https://www.youtube.com/watch?v=9v1FuirLYdA)
 - [Eloquent JavaScript: Chapter 4 &lpar;part 1&rpar;](https://www.youtube.com/watch?v=HdXrNByHZE4)
+- [An Interview 10 Years in the Making](https://www.youtube.com/watch?v=_0Y_7-mjVkg)
 - [How to use video in an Astro site](https://www.youtube.com/watch?v=eYzZbmCE_T4)
 - [Eloquent JavaScript: Chapter 3](https://www.youtube.com/watch?v=sSDcfEyWvuM)
-- [Relative colors are HERE!](https://www.youtube.com/watch?v=oTdQaaqtGDk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
