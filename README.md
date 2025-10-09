@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [More than you want to know about favicons](https://www.youtube.com/watch?v=BDaaHWN1QHM)
 - [Eloquent JavaScript: Chapter 5](https://www.youtube.com/watch?v=LEV_byR19UI)
 - [2025 Fundraiser Giveaway Stream!](https://www.youtube.com/watch?v=oHu_fBSLvQ4)
 - [Day 4  Advent of CSS/JS challenge stream](https://www.youtube.com/watch?v=JnlRfX7EXdM)
 - [React form hooks in Astro!](https://www.youtube.com/watch?v=-0pbaYcQJ-0)
-- [Eloquent JavaScript: Chapter 4 &lpar;part 2&rpar;](https://www.youtube.com/watch?v=9v1FuirLYdA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
