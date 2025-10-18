@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Eloquent JavaScript: Chapter 6](https://www.youtube.com/watch?v=I8jHGtgKqeg)
 - [How well do you know JavaScript?](https://www.youtube.com/watch?v=bHwv5H8Kyh8)
 - [More than you want to know about favicons](https://www.youtube.com/watch?v=BDaaHWN1QHM)
 - [Eloquent JavaScript: Chapter 5](https://www.youtube.com/watch?v=LEV_byR19UI)
 - [2025 Fundraiser Giveaway Stream!](https://www.youtube.com/watch?v=oHu_fBSLvQ4)
-- [Day 4  Advent of CSS/JS challenge stream](https://www.youtube.com/watch?v=JnlRfX7EXdM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
