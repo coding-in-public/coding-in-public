@@ -25,7 +25,7 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Interactions matter](https://www.youtube.com/watch?v=7lwPoTm0pPs)
+- [Micro-interactions still matter](https://www.youtube.com/watch?v=7lwPoTm0pPs)
 - [Live Code: Product UI Live Code &lpar;Web Dev Daily&rpar;](https://www.youtube.com/watch?v=-nic_3dezeQ)
 - [How View Transitions actually work](https://www.youtube.com/watch?v=LAozCuoZXm0)
 - [Eloquent JavaScript: Chapter 6 &lpar;part 2&rpar;](https://www.youtube.com/watch?v=PAXCntA796U)
