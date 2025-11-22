@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Eloquent JavaScript: Chapter 7](https://www.youtube.com/watch?v=v98eD0PbsQ4)
 - [Micro-interactions still matter](https://www.youtube.com/watch?v=7lwPoTm0pPs)
 - [Live Code: Product UI Live Code &lpar;Web Dev Daily&rpar;](https://www.youtube.com/watch?v=-nic_3dezeQ)
 - [How View Transitions actually work](https://www.youtube.com/watch?v=LAozCuoZXm0)
 - [Eloquent JavaScript: Chapter 6 &lpar;part 2&rpar;](https://www.youtube.com/watch?v=PAXCntA796U)
-- [Astro&#39;s early bet on the server](https://www.youtube.com/watch?v=QjNspqqJQz4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
