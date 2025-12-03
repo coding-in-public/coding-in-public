@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Ultimate Content Collections Overview](https://www.youtube.com/watch?v=DbPc6YP-oR4)
 - [New life-like easing in CSS](https://www.youtube.com/watch?v=_aO7qN968WQ)
 - [Eloquent JavaScript: Chapter 7](https://www.youtube.com/watch?v=v98eD0PbsQ4)
 - [Micro-interactions still matter](https://www.youtube.com/watch?v=7lwPoTm0pPs)
 - [Live Code: Product UI Live Code &lpar;Web Dev Daily&rpar;](https://www.youtube.com/watch?v=-nic_3dezeQ)
-- [How View Transitions actually work](https://www.youtube.com/watch?v=LAozCuoZXm0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
