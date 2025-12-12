@@ -25,7 +25,7 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live content collections &lpar;first look&rpar;](https://www.youtube.com/watch?v=wgIYciR0hvk)
+- [Astro&#39;s NEW take on content &lpar;live content collections&rpar;](https://www.youtube.com/watch?v=wgIYciR0hvk)
 - [My First CSS Battle](https://www.youtube.com/watch?v=Zs-YeWxwvpM)
 - [Ultimate Content Collections Overview](https://www.youtube.com/watch?v=DbPc6YP-oR4)
 - [New life-like easing in CSS](https://www.youtube.com/watch?v=_aO7qN968WQ)
