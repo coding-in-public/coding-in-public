@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [My favorite way to author content in Astro](https://www.youtube.com/watch?v=WjWbmeIkcPA)
 - [My thoughts on Astro joining Cloudflare](https://www.youtube.com/watch?v=IISgoIsABs8)
 - [Thoughts on my channel](https://www.youtube.com/watch?v=JpvnTr6Feuk)
 - [Live code: trying Codewars for the first time](https://www.youtube.com/watch?v=1hs9cbp62Bw)
 - [Astro&#39;s NEW take on content &lpar;live content collections&rpar;](https://www.youtube.com/watch?v=wgIYciR0hvk)
-- [My First CSS Battle](https://www.youtube.com/watch?v=Zs-YeWxwvpM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
