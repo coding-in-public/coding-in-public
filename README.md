@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [&lpar;NEW&rpar; Astro 6: First Look](https://www.youtube.com/watch?v=WxUEtNg07gE)
 - [View transitions are incredible](https://www.youtube.com/watch?v=ZBZo3yhAyYY)
 - [My notes app: Git, Claude, Markdown](https://www.youtube.com/watch?v=q35Z2q2WrPE)
 - [Micro-interactions still matter](https://www.youtube.com/watch?v=HrSnHMaWpGA)
 - [My favorite way to author content in Astro](https://www.youtube.com/watch?v=WjWbmeIkcPA)
-- [My thoughts on Astro joining Cloudflare](https://www.youtube.com/watch?v=IISgoIsABs8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
