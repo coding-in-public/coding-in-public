@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Astro&#39;s new Fonts API](https://www.youtube.com/watch?v=tvvfAoj7CfY)
 - [Live Code: Landing Page Live Code &lpar;UI Design Daily&rpar;](https://www.youtube.com/watch?v=c5ixoIqO_qw)
 - [NEW Astro Component Starter](https://www.youtube.com/watch?v=ZoXyK96nyCg)
 - [&lpar;NEW&rpar; Astro 6: First Look](https://www.youtube.com/watch?v=WxUEtNg07gE)
 - [View transitions are incredible](https://www.youtube.com/watch?v=ZBZo3yhAyYY)
-- [My notes app: Git, Claude, Markdown](https://www.youtube.com/watch?v=q35Z2q2WrPE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
