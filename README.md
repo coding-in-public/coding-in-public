@@ -39,11 +39,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pagefind: Static Search for Astro Sites](https://chrispennington.blog//blog/pagefind-static-search-for-astro-sites/)
-- [Why Time Tracking Is The Secret To Productivity](https://chrispennington.blog//blog/why-time-tracking-is-the-secret-to-productivity/)
-- [How Focus Led Me To YouTube](https://chrispennington.blog//blog/how-focus-led-me-to-youtube/)
-- [Safari Mobile is Ignoring My CSS](https://chrispennington.blog//blog/safari-mobile-text-is-too-big/)
-- [Shortcut For macOS Save Dialog](https://chrispennington.blog//blog/shortcut-for-macos-save-dialog/)
+- [Learning to Think Differently](https://chrispennington.dev/blog/learning-to-think-differently/)
+- [Pagefind: Static Search for Astro Sites](https://chrispennington.dev/blog/pagefind-static-search-for-astro-sites/)
+- [Why Time Tracking Is The Secret To Productivity](https://chrispennington.dev/blog/why-time-tracking-is-the-secret-to-productivity/)
+- [How Focus Led Me To YouTube](https://chrispennington.dev/blog/how-focus-led-me-to-youtube/)
+- [Safari Mobile is Ignoring My CSS](https://chrispennington.dev/blog/safari-mobile-text-is-too-big/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...][blog]
