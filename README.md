@@ -4,7 +4,7 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ---
 - 👨‍👩‍👧‍👦 I’m a husband and father (of three kids).
 - 📹 I started posting videos to YouTube quietly in 2021 as a way to track my own learning and force myself to explain the code I was writing. It was never supposed to be “a thing.”
-- 🎒 I’m currently learning NodeJS and React.
+- 📧 I work at [Resend](https://resend.com/humans/chris-pennington) as a DX Engineer.
 - ⚡ Fun fact: I love all things outdoors (hiking, climbing, skiing, etc.), soccer, coffee, arts and crafts, and playing piano.
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCUSxKiac-miugK9CDsxGS9Q?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
