@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Code: Dark Mode Landing Page &lpar;Astro Basics&rpar;](https://www.youtube.com/watch?v=6gFOrQ8sHAc)
 - [Coding inspiration just dropped](https://www.youtube.com/watch?v=Wv4EVLxwF_A)
 - [Live Code: Settings page &lpar;UI Design Daily&rpar;](https://www.youtube.com/watch?v=1ZVDPDefhpI)
 - [The channel is changing](https://www.youtube.com/watch?v=xClmQZCJuTk)
 - [Astro&#39;s new Fonts API](https://www.youtube.com/watch?v=tvvfAoj7CfY)
-- [Live Code: Landing Page Live Code &lpar;UI Design Daily&rpar;](https://www.youtube.com/watch?v=c5ixoIqO_qw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
