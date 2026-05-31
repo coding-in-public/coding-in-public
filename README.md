@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Lofi stream &lpar;designing Advent of Astro project&rpar;](https://www.youtube.com/watch?v=avyqKpAymgQ)
 - [Live CSS: Testing my CSS skills](https://www.youtube.com/watch?v=pS2LFV7ox0Y)
 - [Lofi stream &lpar;planning Advent of Astro&rpar;](https://www.youtube.com/watch?v=nLfNBvaqax4)
 - [This took me way too long to solve 🤦‍♂️](https://www.youtube.com/watch?v=TajGQqmZLzU)
 - [Protect yourself from npm dependency attacks](https://www.youtube.com/watch?v=bZKgV1yhDWk)
-- [Live Code: Dark Mode Landing Page &lpar;Astro Basics&rpar;](https://www.youtube.com/watch?v=6gFOrQ8sHAc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
