@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What Astro’s new compiler means for you](https://www.youtube.com/watch?v=KBOgV7kuSm8)
 - [Never lose code again](https://www.youtube.com/watch?v=9lYgUPjaC-w)
 - [Lofi stream &lpar;designing Advent of Astro project&rpar;](https://www.youtube.com/watch?v=avyqKpAymgQ)
 - [Live CSS: Testing my CSS skills](https://www.youtube.com/watch?v=pS2LFV7ox0Y)
 - [Lofi stream &lpar;planning Advent of Astro&rpar;](https://www.youtube.com/watch?v=nLfNBvaqax4)
-- [This took me way too long to solve 🤦‍♂️](https://www.youtube.com/watch?v=TajGQqmZLzU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
