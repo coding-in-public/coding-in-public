@@ -25,11 +25,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CSS 20 years in the making?](https://www.youtube.com/watch?v=3QUOstYE7-Q)
 - [How Anchors work in Modern CSS](https://www.youtube.com/watch?v=zfQbVHyv3v4)
 - [Live Code: Hotel booking confirmation page &lpar;Astro Basics&rpar;](https://www.youtube.com/watch?v=xT4z66Eah8U)
 - [How to use popover API](https://www.youtube.com/watch?v=sl_cGD327BY)
 - [What Astro’s new compiler means for you](https://www.youtube.com/watch?v=KBOgV7kuSm8)
-- [Never lose code again](https://www.youtube.com/watch?v=9lYgUPjaC-w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
