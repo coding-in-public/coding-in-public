@@ -39,11 +39,11 @@ I’m a relatively new self-taught front-end developer who loves to learn throug
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Your Agent Won&#39;t Write &lpar;UtahJS 2026&rpar;](https://chrispennington.dev/blog/css-your-agent-wont-write-utahjs-2026/)
 - [Stop Installing Packages the Second They&#39;re Published](https://chrispennington.dev/blog/stop-installing-packages-the-second-theyre-published/)
 - [Predictability is a Superpower](https://chrispennington.dev/blog/predictability-is-a-superpower/)
 - [Learning to Think Differently](https://chrispennington.dev/blog/learning-to-think-differently/)
 - [Pagefind: Static Search for Astro Sites](https://chrispennington.dev/blog/pagefind-static-search-for-astro-sites/)
-- [Why Time Tracking Is The Secret To Productivity](https://chrispennington.dev/blog/why-time-tracking-is-the-secret-to-productivity/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...][blog]
